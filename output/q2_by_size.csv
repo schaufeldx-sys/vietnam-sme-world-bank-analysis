@@ -1,0 +1,4 @@
+size_label,n_firms,with_account,with_loan,pct_account,pct_loan
+Small (5-19),351,76,45,21.7,12.8
+Medium (20-99),353,144,63,40.8,17.8
+Large (100+),324,199,65,61.4,20.1
